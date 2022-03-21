@@ -12,3 +12,6 @@ const InputExampleIcon = () => {
   );
 };
 export default InputExampleIcon;
+
+// Biblioteca Usada
+// https://mui.com/pt/components/text-fields/
